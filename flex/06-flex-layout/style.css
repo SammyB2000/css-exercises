@@ -18,15 +18,6 @@ body {
 .footer {
   background-color: lightgrey;
 }
-.left-links {
-  display: flex;
-  margin-right: auto;
-}
-
-.right-links {
-  display: flex;
-  margin-left: auto;
-}
 
 .content {
   display: flex;
